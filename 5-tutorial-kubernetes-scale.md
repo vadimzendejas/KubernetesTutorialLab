@@ -130,5 +130,4 @@ In this tutorial, you used different scaling features in your Kubernetes cluster
 
 Advance to the next tutorial to learn about updating application in Kubernetes.
 
-> [!div class="nextstepaction"]
 > [Update an application in Kubernetes](./6-tutorial-kubernetes-app-update.md)

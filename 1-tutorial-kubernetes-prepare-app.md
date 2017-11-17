@@ -114,4 +114,4 @@ In this tutorial, an application was tested and container images created for the
 Advance to the next tutorial to learn about storing container images in an Azure Container Registry.
 
 
-> [Push images to Azure Container Registry](./tutorial-kubernetes-prepare-acr.md)
+> [Push images to Azure Container Registry](./2-tutorial-kubernetes-prepare-acr.md)

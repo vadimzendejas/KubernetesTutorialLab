@@ -121,7 +121,7 @@ In this tutorial, you upgraded Kubernetes in an AKS cluster. The following tasks
 
 Clean all your enviroment so you don't incour extra charges.
 
-> 
+> [Clean and terminate your enviroment](./9-clean-your-enviroment.md)
 
 Follow this link to learn more about AKS.
 

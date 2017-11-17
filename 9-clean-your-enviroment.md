@@ -1,4 +1,4 @@
-# Clean your resources and enviroment
+# Clean your resources and terminate your enviroment
 
 You will need to delete and clean all your resources so you don't incour with extra charges.
 
