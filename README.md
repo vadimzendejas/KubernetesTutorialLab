@@ -4,6 +4,10 @@ In this Workshop Lab we will explore how to use containers and deploy this conta
 
 Azure Container Service (AKS) manages your hosted Kubernetes environment, making it quick and easy to deploy and manage containerized applications without container orchestration expertise. It also eliminates the burden of ongoing operations and maintenance by provisioning, upgrading, and scaling resources on demand, without taking your applications offline.
 
+The architecture of Kubernetes running in Azure:
+
+![Image of Kubernetes cluster on Azure](./media/kubernetes.png)
+
 This Workshop is a compilation of 8 parts, cloned from the [Azure Documentation Articles on AKS](https://docs.microsoft.com/en-us/azure/aks/ "Azure AKS Docs").
 
 ## Tutorial Labs
