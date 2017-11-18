@@ -73,7 +73,7 @@ Now, tag the `azure-vote-front` image with the loginServer of the container regi
 docker tag azure-vote-front <acrLoginServer>/azure-vote-front:redis-v1
 ```
 
-Once tagged, run [docker images] (https://docs.docker.com/engine/reference/commandline/images/) to verify the operation.
+Once tagged, run [docker images](https://docs.docker.com/engine/reference/commandline/images/) to verify the operation.
 
 ```console
 docker images
